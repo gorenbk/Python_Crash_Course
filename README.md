@@ -1,5 +1,5 @@
 # Python Crash Course
 ---
-## About
+### About
 ---
 __Python Crash Course__ is a book. These are all the programs I made with it.
